@@ -1,0 +1,8 @@
+https://www.how2shout.com/linux/how-to-install-xampp-on-ubuntu-20-04-lts/    (eta xampp er all instraction a6a)
+
+
+sudo /opt/lampp/lampp stop  (Stop the server)
+
+
+sudo /opt/lampp/lampp start  (Start the server)
+ 
